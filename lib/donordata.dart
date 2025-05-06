@@ -54,6 +54,17 @@ class DonorData {
       'image': 'assets/images/himu.jpg'
     },
     {
+      'name': 'Ashik',
+      'bloodType': 'O+',
+      'contact': '01322-892026',
+      'emergency': 'N/A',
+      'address': 'Colony, Naogaon',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/ashik.jpg',
+      'imageType': 'asset'
+    },
+    {
       'name': 'Mehedi Hasan Anik',
       'bloodType': 'O+',
       'contact': '0173208036',
@@ -231,6 +242,16 @@ class DonorData {
       'lastDonation': 'N/A',
       'status': 'Available',
       'image': 'assets/images/nahid.jpg'
+    },
+    {
+      'name': 'Md. Saeid Hossain',
+      'bloodType': 'AB+',
+      'contact': '01798-725479',
+      'emergency': 'N/A',
+      'address': 'Colony, Naogaon',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/saeid.jpg'
     },
     {
       'name': 'MD AL Amin',

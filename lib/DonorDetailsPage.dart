@@ -50,7 +50,7 @@ class DonorDetailsPage extends StatelessWidget {
                       const SizedBox(height: 8),
                       Text('📞 Contact: ${donor['contact']}'),
                       const SizedBox(height: 8),
-                      Text('📱 Emergency: ${donor['emergency']}'),
+                      // Text('📱 Emergency: ${donor['emergency']}'),
                       const SizedBox(height: 8),
                       Text('🏠 Address: ${donor['address']}'),
                       const SizedBox(height: 8),

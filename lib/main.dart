@@ -320,7 +320,7 @@ class DonorCard extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text('📞 ${donor['contact']}'),
-                    Text('📱 Emergency: ${donor['emergency']}'),
+                    // Text('📱 Emergency: ${donor['emergency']}'),
                     Text('🏠 ${donor['address']}'),
                     const SizedBox(height: 8),
                     Text('🩸 Last Donation: ${donor['lastDonation']}'),

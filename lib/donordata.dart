@@ -330,7 +330,7 @@ class DonorData {
       'name': 'Samir Ansary',
       'bloodType': 'B+',
       'contact': '01303-044423',
-      'emergency': 'N/A',
+      // 'emergency': 'N/A',
       'address': 'Colony, Naogaon',
       'lastDonation': 'N/A',
       'status': 'Available',
@@ -347,6 +347,16 @@ class DonorData {
       'image': 'assets/images/ridoy.jpg'
     },
     {
+      'name': 'Shahariar Reek',
+      'bloodType': 'B+',
+      'contact': '01521-489657',
+      'emergency': 'N/A',
+      'address': 'Colony, Naogaon',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/ricon.jpg'
+    },
+    {
       'name': 'Amit Oshni',
       'bloodType': 'B+',
       'contact': '01727-451869',
@@ -354,7 +364,7 @@ class DonorData {
       'address': 'Mirpur, Dhaka',
       'lastDonation': 'N/A',
       'status': 'Available',
-      'image': 'assets/images/itachi.jpg'
+      'image': 'assets/images/amit.jpg'
     },
     {
       'name': 'Bacchu Oshni',

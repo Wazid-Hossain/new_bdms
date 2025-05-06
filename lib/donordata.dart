@@ -3,16 +3,6 @@ class DonorData {
 // For O+ blood type
 
     {
-      'name': 'Aminul Islam Sujon',
-      'bloodType': 'O+',
-      'contact': '01889-918888',
-      'emergency': 'N/A',
-      'address': 'Colony, Naogaon',
-      'lastDonation': 'N/A',
-      'status': 'Available',
-      'image': 'assets/images/sujon.jpg'
-    },
-    {
       'name': 'Wazid Hossain',
       'bloodType': 'O+',
       'contact': '01784880361',
@@ -22,6 +12,26 @@ class DonorData {
       'status': 'Available',
       'image': 'assets/images/wazid.jpg',
       'imageType': 'asset'
+    },
+    {
+      'name': 'Wahid Hossain',
+      'bloodType': 'O+',
+      'contact': '01737-997860',
+      'emergency': 'N/A',
+      'address': 'Colony, Naogaon',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/wahid.jpg'
+    },
+    {
+      'name': 'Aminul Islam Sujon',
+      'bloodType': 'O+',
+      'contact': '01889-918888',
+      'emergency': 'N/A',
+      'address': 'Colony, Naogaon',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/sujon.jpg'
     },
     {
       'name': 'Mohammad Zakir Hossain',
@@ -82,6 +92,26 @@ class DonorData {
       'lastDonation': 'N/A',
       'status': 'Available',
       'image': 'assets/images/akash.jpg'
+    },
+    {
+      'name': 'Hridoy ',
+      'bloodType': 'O+',
+      'contact': '01612-903935',
+      'emergency': 'N/A',
+      'address': 'Mirpur, Dhaka',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/hridoy.jpg'
+    },
+    {
+      'name': 'Shariful  ',
+      'bloodType': 'O+',
+      'contact': '01874340149',
+      'emergency': 'N/A',
+      'address': 'Mirpur, Dhaka',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/itachi.jpg'
     },
     {
       'name': 'Md abdul rakib',
@@ -243,6 +273,16 @@ class DonorData {
       'status': 'Available',
       'image': 'assets/images/alif.jpg'
     },
+    {
+      'name': 'Razib',
+      'bloodType': 'O-',
+      'contact': '01770188679',
+      'emergency': 'N/A',
+      'address': 'Mirpur, Dhaka ',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/itachi.jpg'
+    },
 
     // B+ blood type
     {
@@ -264,6 +304,16 @@ class DonorData {
       'lastDonation': 'N/A',
       'status': 'Available',
       'image': 'assets/images/samiransari.jpg'
+    },
+    {
+      'name': 'Hridoy Khan',
+      'bloodType': 'B+',
+      'contact': '01765-398223',
+      'emergency': 'N/A',
+      'address': 'Colony, Naogaon',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/ridoy.jpg'
     },
     {
       'name': 'Amit Oshni',

@@ -115,6 +115,16 @@ class DonorData {
       'image': 'assets/images/hridoy.jpg'
     },
     {
+      'name': 'Joy Ghosh ',
+      'bloodType': 'O+',
+      'contact': '01303-139357',
+      'emergency': 'N/A',
+      'address': 'Mirpur, Dhaka',
+      'lastDonation': 'N/A',
+      'status': 'Available',
+      'image': 'assets/images/joy.jpg'
+    },
+    {
       'name': 'Shariful  ',
       'bloodType': 'O+',
       'contact': '01874340149',
@@ -135,14 +145,14 @@ class DonorData {
       'image': 'assets/images/rakib.jpg'
     },
     {
-      'name': 'Assaddujjaman Moon',
+      'name': 'Moon Asad',
       'bloodType': 'O+',
       'contact': '01320380936',
       'emergency': 'N/A',
       'address': 'Mirpur, Dhaka',
       'lastDonation': 'N/A',
       'status': 'Available',
-      'image': 'assets/images/itachi.jpg'
+      'image': 'assets/images/moon.jpg'
     },
 
     // end of O+ blood type

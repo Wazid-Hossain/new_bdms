@@ -121,7 +121,7 @@ class DonorData {
       'emergency': 'N/A',
       'address': 'Mirpur, Dhaka',
       'lastDonation': 'N/A',
-      'status': 'Available',
+      'status': 'Unavailable',
       'image': 'assets/images/joy.jpg'
     },
     {

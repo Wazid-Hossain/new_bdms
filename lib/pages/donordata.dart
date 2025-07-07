@@ -8,7 +8,7 @@ class DonorData {
       'contact': '01784880361',
       'emergency': '01737997860',
       'address': 'Colony, Naogaon',
-      'lastDonation': '6 Aug 2024',
+      'lastDonation': '5 Aug 2024',
       'status': 'Available',
       'image': 'assets/images/wazid.jpg',
       'imageType': 'asset'

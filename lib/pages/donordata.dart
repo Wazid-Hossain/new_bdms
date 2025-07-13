@@ -145,7 +145,7 @@ class DonorData {
       'image': 'assets/images/rakib.jpg'
     },
     {
-      'name': 'Moon Asad',
+      'name': 'Moon Asad Oshni',
       'bloodType': 'O+',
       'contact': '01320380936',
       'emergency': 'N/A',

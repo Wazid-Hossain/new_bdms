@@ -180,7 +180,7 @@ class DonorData {
       'image': 'assets/images/mithun.jpg'
     },
     {
-      'name': 'Kawser KKR',
+      'name': 'Kawser ngn',
       'bloodType': 'A+',
       'contact': '01798-183332',
       'emergency': 'N/A',

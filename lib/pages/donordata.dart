@@ -217,7 +217,7 @@ class DonorData {
       'emergency': 'N/A',
       'address': 'Mirpur, Dhaka',
       'lastDonation': 'N/A',
-      'status': 'Unavailable',
+      'status': 'Available',
       'image': 'assets/images/mubin.jpg'
     },
     {

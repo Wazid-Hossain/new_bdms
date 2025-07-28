@@ -214,7 +214,7 @@ class DonorData {
       'name': 'MH Mubin',
       'bloodType': 'A+',
       'contact': '01754595024',
-      'emergency': 'N/',
+      'emergency': 'N/A',
       'address': 'Mirpur, Dhaka',
       'lastDonation': 'N/A',
       'status': 'Available',

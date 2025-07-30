@@ -160,7 +160,7 @@ class DonorData {
       'bloodType': 'O+',
       'contact': '01320380936',
       'emergency': 'N/A',
-      'address': 'Mirpur, Dhaka',
+      'address': 'Dinajpur,',
       'lastDonation': 'N/A',
       'status': 'Available',
       'image': 'assets/images/moon.jpg'
